@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from './Title';
-import Button from './Button';
+// import Button from './Button';
 const Projects = () => {
 	return (
 		<div className="container mx-auto w-10/12 pt-16" id='Projects'>

@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from './Title'
-import Button from './Button'
+// import Button from './Button'
 import GalleryContents from './GalleryContents'
 import Satu from '../assets/avatar.png'
 

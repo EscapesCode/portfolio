@@ -1,8 +1,8 @@
 import Avatar from "../assets/Avatarfix.png";
-import FloatingDivKanan from "./FloatingDivKanan";
-import FloatingDivKiri from "./FloatingDivKiri";
-import Mahkota from "../assets/instagram.svg";
-import Button from "./Button";
+// import FloatingDivKanan from "./FloatingDivKanan";
+// import FloatingDivKiri from "./FloatingDivKiri";
+// import Mahkota from "../assets/instagram.svg";
+// import Button from "./Button";
 // import Blob from "../assets/blob.svg"
 export default function Banner() {
   return (
