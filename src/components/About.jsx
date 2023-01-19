@@ -1,6 +1,6 @@
 import React from 'react'
-import Avatar2 from "../assets/Avatar2.png";
-import Title from "./Title";
+// import Avatar2 from "../assets/Avatar2.png";
+// import Title from "./Title";
 import Button from './Button';
 import Medsos from './Medsos';
 
